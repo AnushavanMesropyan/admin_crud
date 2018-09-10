@@ -1,0 +1,27 @@
+body{
+    padding-bottom: 20px;
+}
+.mtop20{
+    margin-top: 20px;
+}
+.about_list{
+    margin-top: 50px;
+}
+.title{
+    color: black;
+}
+.title:hover{
+    color: #e6c45d;
+}
+.description{
+    color: #aaa;
+}
+#add{
+    padding-bottom:20px;
+}
+.o-hidden {
+    white-space: nowrap;
+    max-width: 250px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
